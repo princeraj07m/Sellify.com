@@ -18,7 +18,7 @@
 ---
 ## 🔥 Live Demo
 
-🌐 **[Try it now](#)**  
+🌐 **[https://sellify-com.vercel.app/home](#)**  
 
 ---
 
